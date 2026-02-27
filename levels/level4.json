@@ -1,0 +1,2213 @@
+{
+  "name": "关卡4",
+  "width": 4000,
+  "height": 1000,
+  "tiles": [
+    {
+      "type": "collide_image",
+      "x": 864.0,
+      "y": 960.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 243
+    },
+    {
+      "type": "collide_image",
+      "x": 896.0,
+      "y": 960.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 244
+    },
+    {
+      "type": "collide_image",
+      "x": 928.0,
+      "y": 960.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 245
+    },
+    {
+      "type": "collide_image",
+      "x": 832.0,
+      "y": 960.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 246
+    },
+    {
+      "type": "collide_image",
+      "x": 960.0,
+      "y": 960.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 12.png",
+      "_canvas_id": 247
+    },
+    {
+      "type": "collide_image",
+      "x": 800.0,
+      "y": 960.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 10 - 副本.png",
+      "_canvas_id": 248
+    },
+    {
+      "type": "collide_image",
+      "x": 1184.0,
+      "y": 800.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 12.png",
+      "_canvas_id": 249
+    },
+    {
+      "type": "collide_image",
+      "x": 960.0,
+      "y": 704.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 12.png",
+      "_canvas_id": 250
+    },
+    {
+      "type": "collide_image",
+      "x": 928.0,
+      "y": 704.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 251
+    },
+    {
+      "type": "collide_image",
+      "x": 896.0,
+      "y": 704.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 252
+    },
+    {
+      "type": "collide_image",
+      "x": 864.0,
+      "y": 704.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 253
+    },
+    {
+      "type": "collide_image",
+      "x": 1152.0,
+      "y": 800.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 254
+    },
+    {
+      "type": "collide_image",
+      "x": 1120.0,
+      "y": 800.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 10 - 副本.png",
+      "_canvas_id": 255
+    },
+    {
+      "type": "collide_image",
+      "x": 832.0,
+      "y": 704.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 10 - 副本.png",
+      "_canvas_id": 256
+    },
+    {
+      "type": "collide_image",
+      "x": 640.0,
+      "y": 608.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 257
+    },
+    {
+      "type": "collide_image",
+      "x": 288.0,
+      "y": 608.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 258
+    },
+    {
+      "type": "collide_image",
+      "x": 32.0,
+      "y": 928.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 259
+    },
+    {
+      "type": "collide_image",
+      "x": 0.0,
+      "y": 928.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 10 - 副本.png",
+      "_canvas_id": 260
+    },
+    {
+      "type": "collide_image",
+      "x": 64.0,
+      "y": 928.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 12.png",
+      "_canvas_id": 261
+    },
+    {
+      "type": "collide_image",
+      "x": 256.0,
+      "y": 608.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 263
+    },
+    {
+      "type": "collide_image",
+      "x": 320.0,
+      "y": 608.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 12.png",
+      "_canvas_id": 264
+    },
+    {
+      "type": "collide_image",
+      "x": 672.0,
+      "y": 608.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 12.png",
+      "_canvas_id": 265
+    },
+    {
+      "type": "collide_image",
+      "x": 224.0,
+      "y": 608.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 10 - 副本.png",
+      "_canvas_id": 266
+    },
+    {
+      "type": "collide_image",
+      "x": 608.0,
+      "y": 608.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 10 - 副本.png",
+      "_canvas_id": 267
+    },
+    {
+      "type": "collide_image",
+      "x": 1600.0,
+      "y": 896.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 282
+    },
+    {
+      "type": "collide_image",
+      "x": 1632.0,
+      "y": 896.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 283
+    },
+    {
+      "type": "collide_image",
+      "x": 1664.0,
+      "y": 896.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 284
+    },
+    {
+      "type": "collide_image",
+      "x": 1696.0,
+      "y": 896.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 285
+    },
+    {
+      "type": "collide_image",
+      "x": 1696.0,
+      "y": 896.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 286
+    },
+    {
+      "type": "collide_image",
+      "x": 1728.0,
+      "y": 896.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 287
+    },
+    {
+      "type": "collide_image",
+      "x": 1760.0,
+      "y": 896.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 288
+    },
+    {
+      "type": "collide_image",
+      "x": 1792.0,
+      "y": 896.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 289
+    },
+    {
+      "type": "collide_image",
+      "x": 1824.0,
+      "y": 896.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 290
+    },
+    {
+      "type": "collide_image",
+      "x": 1856.0,
+      "y": 896.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 291
+    },
+    {
+      "type": "collide_image",
+      "x": 1856.0,
+      "y": 896.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 292
+    },
+    {
+      "type": "collide_image",
+      "x": 1888.0,
+      "y": 896.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 293
+    },
+    {
+      "type": "collide_image",
+      "x": 1888.0,
+      "y": 896.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 294
+    },
+    {
+      "type": "collide_image",
+      "x": 1568.0,
+      "y": 896.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 295
+    },
+    {
+      "type": "collide_image",
+      "x": 1536.0,
+      "y": 896.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 296
+    },
+    {
+      "type": "collide_image",
+      "x": 1504.0,
+      "y": 896.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 297
+    },
+    {
+      "type": "collide_image",
+      "x": 1504.0,
+      "y": 896.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 298
+    },
+    {
+      "type": "collide_image",
+      "x": 1472.0,
+      "y": 896.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 299
+    },
+    {
+      "type": "collide_image",
+      "x": 1440.0,
+      "y": 896.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 300
+    },
+    {
+      "type": "collide_image",
+      "x": 1440.0,
+      "y": 896.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 301
+    },
+    {
+      "type": "collide_image",
+      "x": 1440.0,
+      "y": 896.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 302
+    },
+    {
+      "type": "collide_image",
+      "x": 1376.0,
+      "y": 896.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 303
+    },
+    {
+      "type": "collide_image",
+      "x": 1376.0,
+      "y": 896.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 304
+    },
+    {
+      "type": "collide_image",
+      "x": 1408.0,
+      "y": 896.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 305
+    },
+    {
+      "type": "collide_image",
+      "x": 1920.0,
+      "y": 896.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 12.png",
+      "_canvas_id": 306
+    },
+    {
+      "type": "collide_image",
+      "x": 1344.0,
+      "y": 896.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 10 - 副本.png",
+      "_canvas_id": 307
+    },
+    {
+      "type": "no_collide_image",
+      "x": 1408.0,
+      "y": 864.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Environment - Signpost 04.png",
+      "_canvas_id": 309
+    },
+    {
+      "type": "collide_image",
+      "x": 1472.0,
+      "y": 800.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 310
+    },
+    {
+      "type": "collide_image",
+      "x": 1472.0,
+      "y": 768.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 311
+    },
+    {
+      "type": "collide_image",
+      "x": 1472.0,
+      "y": 736.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 312
+    },
+    {
+      "type": "collide_image",
+      "x": 1504.0,
+      "y": 704.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 313
+    },
+    {
+      "type": "collide_image",
+      "x": 1504.0,
+      "y": 672.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 314
+    },
+    {
+      "type": "collide_image",
+      "x": 1504.0,
+      "y": 640.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 315
+    },
+    {
+      "type": "collide_image",
+      "x": 1536.0,
+      "y": 608.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 316
+    },
+    {
+      "type": "collide_image",
+      "x": 1568.0,
+      "y": 608.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 317
+    },
+    {
+      "type": "collide_image",
+      "x": 1600.0,
+      "y": 608.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 318
+    },
+    {
+      "type": "collide_image",
+      "x": 1632.0,
+      "y": 640.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 319
+    },
+    {
+      "type": "collide_image",
+      "x": 1632.0,
+      "y": 672.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 320
+    },
+    {
+      "type": "collide_image",
+      "x": 1632.0,
+      "y": 704.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 321
+    },
+    {
+      "type": "collide_image",
+      "x": 1664.0,
+      "y": 736.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 322
+    },
+    {
+      "type": "collide_image",
+      "x": 1664.0,
+      "y": 768.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 323
+    },
+    {
+      "type": "collide_image",
+      "x": 1664.0,
+      "y": 800.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 324
+    },
+    {
+      "type": "collide_image",
+      "x": 1440.0,
+      "y": 800.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 325
+    },
+    {
+      "type": "collide_image",
+      "x": 1696.0,
+      "y": 800.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 327
+    },
+    {
+      "type": "collide_image",
+      "x": 1728.0,
+      "y": 800.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 328
+    },
+    {
+      "type": "collide_image",
+      "x": 1408.0,
+      "y": 800.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 329
+    },
+    {
+      "type": "collide_image",
+      "x": 1760.0,
+      "y": 800.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 330
+    },
+    {
+      "type": "collide_image",
+      "x": 1376.0,
+      "y": 800.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 331
+    },
+    {
+      "type": "collide_image",
+      "x": 1824.0,
+      "y": 864.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Wooden Box.png",
+      "_canvas_id": 332
+    },
+    {
+      "type": "collide_image",
+      "x": 1856.0,
+      "y": 864.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Wooden Box.png",
+      "_canvas_id": 333
+    },
+    {
+      "type": "collide_image",
+      "x": 1888.0,
+      "y": 832.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Wooden Box.png",
+      "_canvas_id": 334
+    },
+    {
+      "type": "collide_image",
+      "x": 1888.0,
+      "y": 864.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Wooden Box.png",
+      "_canvas_id": 335
+    },
+    {
+      "type": "collide_image",
+      "x": 1920.0,
+      "y": 864.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Wooden Box.png",
+      "_canvas_id": 336
+    },
+    {
+      "type": "collide_image",
+      "x": 1664.0,
+      "y": 640.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 337
+    },
+    {
+      "type": "collide_image",
+      "x": 1472.0,
+      "y": 640.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 339
+    },
+    {
+      "type": "collide_image",
+      "x": 1600.0,
+      "y": 576.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 343
+    },
+    {
+      "type": "collide_image",
+      "x": 1568.0,
+      "y": 576.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 344
+    },
+    {
+      "type": "collide_image",
+      "x": 1536.0,
+      "y": 576.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 345
+    },
+    {
+      "type": "collide_image",
+      "x": 1600.0,
+      "y": 640.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 346
+    },
+    {
+      "type": "collide_image",
+      "x": 1568.0,
+      "y": 640.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 347
+    },
+    {
+      "type": "collide_image",
+      "x": 1536.0,
+      "y": 640.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 348
+    },
+    {
+      "type": "collide_image",
+      "x": 1792.0,
+      "y": 640.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 353
+    },
+    {
+      "type": "collide_image",
+      "x": 1824.0,
+      "y": 640.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 354
+    },
+    {
+      "type": "collide_image",
+      "x": 1824.0,
+      "y": 672.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 356
+    },
+    {
+      "type": "collide_image",
+      "x": 1824.0,
+      "y": 704.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 357
+    },
+    {
+      "type": "collide_image",
+      "x": 1792.0,
+      "y": 736.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 359
+    },
+    {
+      "type": "collide_image",
+      "x": 1792.0,
+      "y": 768.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 360
+    },
+    {
+      "type": "collide_image",
+      "x": 1792.0,
+      "y": 800.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 361
+    },
+    {
+      "type": "collide_image",
+      "x": 1344.0,
+      "y": 640.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 363
+    },
+    {
+      "type": "collide_image",
+      "x": 1312.0,
+      "y": 640.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 364
+    },
+    {
+      "type": "collide_image",
+      "x": 1312.0,
+      "y": 672.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 366
+    },
+    {
+      "type": "collide_image",
+      "x": 1312.0,
+      "y": 704.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 367
+    },
+    {
+      "type": "collide_image",
+      "x": 1344.0,
+      "y": 736.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 369
+    },
+    {
+      "type": "collide_image",
+      "x": 1344.0,
+      "y": 768.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 370
+    },
+    {
+      "type": "collide_image",
+      "x": 1344.0,
+      "y": 800.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 371
+    },
+    {
+      "type": "collide_image",
+      "x": 1632.0,
+      "y": 544.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 372
+    },
+    {
+      "type": "collide_image",
+      "x": 1664.0,
+      "y": 512.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 373
+    },
+    {
+      "type": "collide_image",
+      "x": 1504.0,
+      "y": 544.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 374
+    },
+    {
+      "type": "collide_image",
+      "x": 1472.0,
+      "y": 512.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 375
+    },
+    {
+      "type": "collide_image",
+      "x": 1472.0,
+      "y": 480.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 376
+    },
+    {
+      "type": "collide_image",
+      "x": 1472.0,
+      "y": 448.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 377
+    },
+    {
+      "type": "collide_image",
+      "x": 1504.0,
+      "y": 416.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 378
+    },
+    {
+      "type": "collide_image",
+      "x": 1664.0,
+      "y": 480.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 379
+    },
+    {
+      "type": "collide_image",
+      "x": 1664.0,
+      "y": 448.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 380
+    },
+    {
+      "type": "collide_image",
+      "x": 1632.0,
+      "y": 416.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 381
+    },
+    {
+      "type": "collide_image",
+      "x": 1792.0,
+      "y": 448.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 385
+    },
+    {
+      "type": "collide_image",
+      "x": 1824.0,
+      "y": 416.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 386
+    },
+    {
+      "type": "collide_image",
+      "x": 1856.0,
+      "y": 384.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 387
+    },
+    {
+      "type": "collide_image",
+      "x": 1344.0,
+      "y": 448.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 388
+    },
+    {
+      "type": "collide_image",
+      "x": 1312.0,
+      "y": 416.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 389
+    },
+    {
+      "type": "collide_image",
+      "x": 1312.0,
+      "y": 352.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 391
+    },
+    {
+      "type": "collide_image",
+      "x": 1344.0,
+      "y": 320.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 392
+    },
+    {
+      "type": "collide_image",
+      "x": 1824.0,
+      "y": 352.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 393
+    },
+    {
+      "type": "collide_image",
+      "x": 1792.0,
+      "y": 320.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 394
+    },
+    {
+      "type": "collide_image",
+      "x": 1824.0,
+      "y": 288.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 395
+    },
+    {
+      "type": "collide_image",
+      "x": 1856.0,
+      "y": 256.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 396
+    },
+    {
+      "type": "collide_image",
+      "x": 1824.0,
+      "y": 224.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 397
+    },
+    {
+      "type": "collide_image",
+      "x": 1792.0,
+      "y": 192.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 398
+    },
+    {
+      "type": "collide_image",
+      "x": 1312.0,
+      "y": 288.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 399
+    },
+    {
+      "type": "collide_image",
+      "x": 1280.0,
+      "y": 256.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 400
+    },
+    {
+      "type": "collide_image",
+      "x": 1312.0,
+      "y": 224.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 401
+    },
+    {
+      "type": "collide_image",
+      "x": 1344.0,
+      "y": 192.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 402
+    },
+    {
+      "type": "collide_image",
+      "x": 1376.0,
+      "y": 160.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 403
+    },
+    {
+      "type": "collide_image",
+      "x": 1408.0,
+      "y": 128.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 404
+    },
+    {
+      "type": "collide_image",
+      "x": 1760.0,
+      "y": 160.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 405
+    },
+    {
+      "type": "collide_image",
+      "x": 1728.0,
+      "y": 128.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 406
+    },
+    {
+      "type": "collide_image",
+      "x": 1472.0,
+      "y": 128.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 415
+    },
+    {
+      "type": "collide_image",
+      "x": 1568.0,
+      "y": 128.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 416
+    },
+    {
+      "type": "collide_image",
+      "x": 1664.0,
+      "y": 128.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 418
+    },
+    {
+      "type": "collide_image",
+      "x": 1536.0,
+      "y": 96.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 419
+    },
+    {
+      "type": "collide_image",
+      "x": 1600.0,
+      "y": 96.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 420
+    },
+    {
+      "type": "collide_image",
+      "x": 1568.0,
+      "y": 64.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 421
+    },
+    {
+      "type": "collide_image",
+      "x": 1920.0,
+      "y": 128.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 422
+    },
+    {
+      "type": "collide_image",
+      "x": 1952.0,
+      "y": 128.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 423
+    },
+    {
+      "type": "collide_image",
+      "x": 1984.0,
+      "y": 128.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 424
+    },
+    {
+      "type": "collide_image",
+      "x": 2016.0,
+      "y": 96.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 425
+    },
+    {
+      "type": "collide_image",
+      "x": 1888.0,
+      "y": 96.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 426
+    },
+    {
+      "type": "collide_image",
+      "x": 2048.0,
+      "y": 128.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 427
+    },
+    {
+      "type": "collide_image",
+      "x": 2112.0,
+      "y": 128.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 428
+    },
+    {
+      "type": "collide_image",
+      "x": 2080.0,
+      "y": 128.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 429
+    },
+    {
+      "type": "collide_image",
+      "x": 2144.0,
+      "y": 96.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 430
+    },
+    {
+      "type": "collide_image",
+      "x": 1856.0,
+      "y": 128.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 431
+    },
+    {
+      "type": "collide_image",
+      "x": 1792.0,
+      "y": 128.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 432
+    },
+    {
+      "type": "collide_image",
+      "x": 1824.0,
+      "y": 128.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 433
+    },
+    {
+      "type": "collide_image",
+      "x": 1760.0,
+      "y": 96.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 435
+    },
+    {
+      "type": "collide_image",
+      "x": 1376.0,
+      "y": 96.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 436
+    },
+    {
+      "type": "collide_image",
+      "x": 1344.0,
+      "y": 128.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 437
+    },
+    {
+      "type": "collide_image",
+      "x": 1312.0,
+      "y": 128.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 438
+    },
+    {
+      "type": "collide_image",
+      "x": 1280.0,
+      "y": 128.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 439
+    },
+    {
+      "type": "collide_image",
+      "x": 1248.0,
+      "y": 96.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 440
+    },
+    {
+      "type": "collide_image",
+      "x": 1216.0,
+      "y": 128.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 441
+    },
+    {
+      "type": "collide_image",
+      "x": 1184.0,
+      "y": 128.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 442
+    },
+    {
+      "type": "collide_image",
+      "x": 1152.0,
+      "y": 128.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 443
+    },
+    {
+      "type": "collide_image",
+      "x": 1120.0,
+      "y": 96.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 444
+    },
+    {
+      "type": "collide_image",
+      "x": 1696.0,
+      "y": 128.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 445
+    },
+    {
+      "type": "collide_image",
+      "x": 1440.0,
+      "y": 128.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 446
+    },
+    {
+      "type": "collide_image",
+      "x": 1632.0,
+      "y": 96.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 447
+    },
+    {
+      "type": "collide_image",
+      "x": 1504.0,
+      "y": 96.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 448
+    },
+    {
+      "type": "no_collide_image",
+      "x": 1504.0,
+      "y": 384.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Environment - Fence 02.png",
+      "_canvas_id": 486
+    },
+    {
+      "type": "no_collide_image",
+      "x": 1632.0,
+      "y": 384.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Environment - Fence 02.png",
+      "_canvas_id": 487
+    },
+    {
+      "type": "no_collide_image",
+      "x": 1536.0,
+      "y": 544.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Environment - Fence 02.png",
+      "_canvas_id": 488
+    },
+    {
+      "type": "no_collide_image",
+      "x": 1568.0,
+      "y": 544.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Environment - Fence 02.png",
+      "_canvas_id": 489
+    },
+    {
+      "type": "no_collide_image",
+      "x": 1600.0,
+      "y": 544.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Environment - Fence 02.png",
+      "_canvas_id": 490
+    },
+    {
+      "type": "no_collide_image",
+      "x": 1376.0,
+      "y": 768.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Environment - Fence 02.png",
+      "_canvas_id": 491
+    },
+    {
+      "type": "no_collide_image",
+      "x": 1408.0,
+      "y": 768.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Environment - Fence 02.png",
+      "_canvas_id": 492
+    },
+    {
+      "type": "no_collide_image",
+      "x": 1440.0,
+      "y": 768.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Environment - Fence 02.png",
+      "_canvas_id": 493
+    },
+    {
+      "type": "no_collide_image",
+      "x": 1696.0,
+      "y": 768.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Environment - Fence 02.png",
+      "_canvas_id": 494
+    },
+    {
+      "type": "no_collide_image",
+      "x": 1728.0,
+      "y": 768.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Environment - Fence 02.png",
+      "_canvas_id": 495
+    },
+    {
+      "type": "no_collide_image",
+      "x": 1792.0,
+      "y": 768.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Environment - Fence 02.png",
+      "_canvas_id": 496
+    },
+    {
+      "type": "no_collide_image",
+      "x": 1760.0,
+      "y": 768.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Environment - Fence 02.png",
+      "_canvas_id": 497
+    },
+    {
+      "type": "no_collide_image",
+      "x": 1536.0,
+      "y": 864.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Environment - Fence 02.png",
+      "_canvas_id": 498
+    },
+    {
+      "type": "no_collide_image",
+      "x": 1536.0,
+      "y": 864.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Environment - Fence 02.png",
+      "_canvas_id": 499
+    },
+    {
+      "type": "no_collide_image",
+      "x": 1568.0,
+      "y": 864.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Environment - Fence 02.png",
+      "_canvas_id": 500
+    },
+    {
+      "type": "no_collide_image",
+      "x": 1600.0,
+      "y": 864.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Environment - Fence 02.png",
+      "_canvas_id": 501
+    },
+    {
+      "type": "no_collide_image",
+      "x": 1632.0,
+      "y": 864.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Environment - Fence 02.png",
+      "_canvas_id": 502
+    },
+    {
+      "type": "no_collide_image",
+      "x": 1728.0,
+      "y": 864.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Environment - Grass 03.png",
+      "_canvas_id": 503
+    },
+    {
+      "type": "no_collide_image",
+      "x": 1120.0,
+      "y": 768.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Environment - Grass 03.png",
+      "_canvas_id": 504
+    },
+    {
+      "type": "no_collide_image",
+      "x": 864.0,
+      "y": 672.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Environment - Grass 03.png",
+      "_canvas_id": 505
+    },
+    {
+      "type": "no_collide_image",
+      "x": 928.0,
+      "y": 672.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Environment - Pumpkin.png",
+      "_canvas_id": 506
+    },
+    {
+      "type": "no_collide_image",
+      "x": 64.0,
+      "y": 896.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Environment - Pumpkin.png",
+      "_canvas_id": 507
+    },
+    {
+      "type": "no_collide_image",
+      "x": 800.0,
+      "y": 928.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Environment - Pumpkin.png",
+      "_canvas_id": 508
+    },
+    {
+      "type": "no_collide_image",
+      "x": 1824.0,
+      "y": 832.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Environment - Pumpkin.png",
+      "_canvas_id": 509
+    },
+    {
+      "type": "no_collide_image",
+      "x": 928.0,
+      "y": 928.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Environment - Signpost 01.png",
+      "_canvas_id": 510
+    },
+    {
+      "type": "collide_image",
+      "x": 2176.0,
+      "y": 864.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 511
+    },
+    {
+      "type": "collide_image",
+      "x": 2272.0,
+      "y": 864.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 514
+    },
+    {
+      "type": "collide_image",
+      "x": 2368.0,
+      "y": 864.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 515
+    },
+    {
+      "type": "collide_image",
+      "x": 2464.0,
+      "y": 864.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 516
+    },
+    {
+      "type": "collide_image",
+      "x": 2560.0,
+      "y": 864.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 517
+    },
+    {
+      "type": "collide_image",
+      "x": 2656.0,
+      "y": 864.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 518
+    },
+    {
+      "type": "collide_image",
+      "x": 2624.0,
+      "y": 608.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 521
+    },
+    {
+      "type": "collide_image",
+      "x": 2528.0,
+      "y": 608.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 522
+    },
+    {
+      "type": "collide_image",
+      "x": 2432.0,
+      "y": 608.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 523
+    },
+    {
+      "type": "collide_image",
+      "x": 2336.0,
+      "y": 608.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 524
+    },
+    {
+      "type": "collide_image",
+      "x": 2240.0,
+      "y": 608.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 525
+    },
+    {
+      "type": "collide_image",
+      "x": 2144.0,
+      "y": 608.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 526
+    },
+    {
+      "type": "collide_image",
+      "x": 2080.0,
+      "y": 864.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 527
+    },
+    {
+      "type": "collide_image",
+      "x": 2048.0,
+      "y": 608.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 528
+    },
+    {
+      "type": "collide_image",
+      "x": 2752.0,
+      "y": 864.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 529
+    },
+    {
+      "type": "collide_image",
+      "x": 2720.0,
+      "y": 608.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 530
+    },
+    {
+      "type": "collide_image",
+      "x": 2816.0,
+      "y": 608.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 531
+    },
+    {
+      "type": "collide_image",
+      "x": 2848.0,
+      "y": 864.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 532
+    },
+    {
+      "type": "collide_image",
+      "x": 2912.0,
+      "y": 608.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 533
+    },
+    {
+      "type": "collide_image",
+      "x": 2944.0,
+      "y": 864.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 534
+    },
+    {
+      "type": "collide_image",
+      "x": 3008.0,
+      "y": 608.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 535
+    },
+    {
+      "type": "collide_image",
+      "x": 3040.0,
+      "y": 864.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 536
+    },
+    {
+      "type": "collide_image",
+      "x": 3104.0,
+      "y": 512.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 537
+    },
+    {
+      "type": "collide_image",
+      "x": 3072.0,
+      "y": 512.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 538
+    },
+    {
+      "type": "collide_image",
+      "x": 3136.0,
+      "y": 512.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 539
+    },
+    {
+      "type": "collide_image",
+      "x": 3200.0,
+      "y": 608.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 540
+    },
+    {
+      "type": "collide_image",
+      "x": 3232.0,
+      "y": 608.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 541
+    },
+    {
+      "type": "collide_image",
+      "x": 3264.0,
+      "y": 608.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 542
+    },
+    {
+      "type": "collide_image",
+      "x": 3072.0,
+      "y": 704.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 546
+    },
+    {
+      "type": "collide_image",
+      "x": 3104.0,
+      "y": 704.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 547
+    },
+    {
+      "type": "collide_image",
+      "x": 3136.0,
+      "y": 704.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 548
+    },
+    {
+      "type": "collide_image",
+      "x": 3200.0,
+      "y": 800.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 549
+    },
+    {
+      "type": "collide_image",
+      "x": 3232.0,
+      "y": 800.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 550
+    },
+    {
+      "type": "collide_image",
+      "x": 3264.0,
+      "y": 800.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 551
+    },
+    {
+      "type": "collide_image",
+      "x": 3072.0,
+      "y": 896.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 562
+    },
+    {
+      "type": "collide_image",
+      "x": 3136.0,
+      "y": 896.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 563
+    },
+    {
+      "type": "collide_image",
+      "x": 3104.0,
+      "y": 896.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 564
+    },
+    {
+      "type": "collide_image",
+      "x": 3200.0,
+      "y": 416.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 565
+    },
+    {
+      "type": "collide_image",
+      "x": 3232.0,
+      "y": 416.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 566
+    },
+    {
+      "type": "collide_image",
+      "x": 3264.0,
+      "y": 416.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 567
+    },
+    {
+      "type": "collide_image",
+      "x": 3136.0,
+      "y": 320.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 568
+    },
+    {
+      "type": "collide_image",
+      "x": 3104.0,
+      "y": 320.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 569
+    },
+    {
+      "type": "collide_image",
+      "x": 3072.0,
+      "y": 320.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 570
+    },
+    {
+      "type": "collide_image",
+      "x": 3520.0,
+      "y": 800.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 585
+    },
+    {
+      "type": "collide_image",
+      "x": 3776.0,
+      "y": 800.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 586
+    },
+    {
+      "type": "collide_image",
+      "x": 3744.0,
+      "y": 800.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 587
+    },
+    {
+      "type": "collide_image",
+      "x": 3744.0,
+      "y": 800.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 588
+    },
+    {
+      "type": "collide_image",
+      "x": 3712.0,
+      "y": 800.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 589
+    },
+    {
+      "type": "collide_image",
+      "x": 3648.0,
+      "y": 800.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 590
+    },
+    {
+      "type": "collide_image",
+      "x": 3648.0,
+      "y": 800.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 591
+    },
+    {
+      "type": "collide_image",
+      "x": 3616.0,
+      "y": 800.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 592
+    },
+    {
+      "type": "collide_image",
+      "x": 3584.0,
+      "y": 800.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 593
+    },
+    {
+      "type": "collide_image",
+      "x": 3552.0,
+      "y": 800.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 594
+    },
+    {
+      "type": "collide_image",
+      "x": 3552.0,
+      "y": 800.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 595
+    },
+    {
+      "type": "collide_image",
+      "x": 3680.0,
+      "y": 800.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 11.png",
+      "_canvas_id": 596
+    },
+    {
+      "type": "collide_image",
+      "x": 3808.0,
+      "y": 800.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 12.png",
+      "_canvas_id": 597
+    },
+    {
+      "type": "collide_image",
+      "x": 3488.0,
+      "y": 800.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Ground 10 - 副本.png",
+      "_canvas_id": 598
+    },
+    {
+      "type": "collide_image",
+      "x": 1280.0,
+      "y": 384.0,
+      "w": 32.0,
+      "h": 32.0,
+      "path": "assets/tile/Cartoon Spooky Level Set_Platformer - Brick 01.png",
+      "_canvas_id": 642
+    }
+  ],
+  "entities": []
+}
